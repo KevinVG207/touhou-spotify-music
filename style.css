@@ -1,33 +1,36 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
 .flexbox {
-  margin: auto;
-  width: 80%;
+  margin: auto 1vw auto 1vw;
+  width: 98vw;
   display: flex;
-  background-color: DodgerBlue;
   flex-wrap: wrap;
 }
 
 .artist-container {
-  background-color: #f1f1f1;
-  margin: 10px;
-  padding: 30px;
-  font-size: 30px;
+  background-color: #2c2c2c;
+  margin: 1vw;
+  width: 17.6vw;
 }
 
 .image-container {
-	position: relative;
-	display: block;
-	width: 100%;
-	height: auto;
+  position: relative;
+  display: block;
+  width: 100%;
 }
 
 .artist-image {
   border-radius: 50%;
   opacity: 1;
   display: block;
-  width: 300px;
-  height: auto;
+  width: 100%;
+  height: 100%;
   transition: .5s ease;
   backface-visibility: hidden;
+  object-fit: contain;
 }
 
 .middle {
@@ -39,7 +42,7 @@
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   text-align: center;
-  width: 80%;
+  width: 100%;
 }
 
 .image-container:hover .artist-image {
@@ -51,11 +54,11 @@
 }
 
 .button-text {
-  background-color: #04AA6D;
-  color: white;
-  font-size: 0.75em;
-  padding: 16px 32px;
-  border-radius: 5px;
+  background-color: #1ed760;
+  color: #f1f1f1;
+  font-size: 1.5vw;
+  padding: 1vw 2vw;
+  border-radius: 0.3vw;
   text-decoration: none;
   font-family: 'Trebuchet MS', sans-serif;
 }
@@ -63,7 +66,24 @@
 .artist-name {
   margin: 0.5em 0 0 0;
   padding: 0;
-  width: inherit;
+  width: 100%;
   text-align: center;
   font-family: Verdana, sans-serif;
+  font-size: 1.6vw;
+  color: #f1f1f1;
+  word-wrap: break-word;
+}
+
+@media (max-width: 1000px) {
+  .artist-container {
+    width: 22.5vw;
+  }
+  
+  .artist-name {
+    font-size: 2vw;
+  }
+  
+  .button-text {
+    font-size: 1.875vw;
+  }
 }
