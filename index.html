@@ -3,33 +3,67 @@
   <head>
     <meta charset="UTF-8">
     <title>Touhou Spotify POC</title>
-  <meta name="author" content="KevinVG207">
-  <meta name="description" content="Proof of Concept Touhou Doujin Circle Spotify List">
-  <meta name="keywords" content="touhou,doujin,dojin,spotify,music,東方,サークル">
-  <link rel="stylesheet" href="style.css" type="text/css">
-  <link rel="stylesheet" href="semantic.min.css" type="text/css">
+    <meta name="author" content="KevinVG207">
+    <meta name="description" content="Proof of Concept Touhou Doujin Circle Spotify List">
+    <meta name="keywords" content="touhou,doujin,dojin,spotify,music,東方,サークル">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1"/>
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="stylesheet" href="semantic.min.css" type="text/css">
   </head>
   <body>
   <div class="ui fixed menu">
     <div class="ui container">
       <div class="item">
-        <img class="logo" src="https://via.placeholder.com/150.png">
+        <img class="logo" src="img/yinYang-green.svg">
       </div>
       <p class="header item">
         TH Spotify Music
       </p>
       <div class="right item">
-        <button class="ui button" id="dc-desktop">
-          <i class="discord icon"></i>
-          Discord Server
-        </button>
-        <button class="ui icon button" id="dc-mobile">
-          <i class="discord icon"></i>
-        </button>
+        <a href="https://discord.com/" target="_blank">
+          <button class="ui button" id="dc-desktop">
+            <i class="discord icon"></i>
+            Discord Server
+          </button>
+          <button class="ui icon button" id="dc-mobile">
+            <i class="discord icon"></i>
+          </button>
+        </a>
       </div>
     </div>
   </div>
   <div class="flexbox">
+  </div>
+  <div class="ui inverted vertical footer segment">
+    <div class="ui center aligned container">
+      <div class="ui stackable inverted divided grid">
+        <div class="five wide column">
+          <div class="container">
+            <h4 class="ui inverted header">Created by:</h4>
+          </div>
+          <div class="container">
+            <a href="https://twitter.com/kevinvg207" target="_blank">
+              <button class="fluid ui twitter button twitterbutton">
+                <i class="twitter icon"></i>
+                KevinVG207
+              </button>
+            </a>
+          </div>
+          <div class="container">
+            <a href="https://twitter.com/kawaii_shadowii" target="_blank">
+              <button class="fluid ui twitter button twitterbutton">
+                <i class="twitter icon"></i>
+                Kawaii_Shadowii
+              </button>
+            </a>
+          </div>
+        </div>
+        <div class="eleven wide column">
+          <h4 class="ui inverted header">Additional notes:</h4>
+          <p>If you found an artist on Spotify that's not on the site or found a mistake,<br>please be sure to contact us or join our Discord server.</p>
+        </div>
+      </div>
+    </div>
   </div>
   <script type="text/javascript">
    async function autorun()

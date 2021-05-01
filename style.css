@@ -1,6 +1,7 @@
 body {
   background-color: #101010!important;
   margin: 0!important;
+  height: auto!important;
 }
 
 .menu {
@@ -99,6 +100,10 @@ body {
   word-wrap: break-word;
 }
 
+.twitterbutton {
+  margin: 5px 0 5px 0!important;
+}
+
 /* 5 WIDE */
 @media (max-width: 1199px) {
   .flexbox {
@@ -124,17 +129,17 @@ body {
 /* 4 WIDE */
 @media (max-width: 991px) {
   .flexbox {
-    margin: 60px 3vw auto 3vw;
+    margin: 60px 2vw auto 2vw;
     width: 96vw;
   }
   .image-container {
-    width: 21vw;
-	  height: 21vw;
+    width: 22vw;
+	  height: 22vw;
   }
   
   
   .artist-name {
-	  width: 21vw;
+	  width: 22vw;
     font-size: 2vw;
   }
   
@@ -147,17 +152,17 @@ body {
 /* 3 WIDE */
 @media (max-width: 767px) {
   .flexbox {
-    margin: 60px 3vw auto 3vw;
-    width: 94vw;
+    margin: 60px 3.5vw auto 3.5vw;
+    width: 93vw;
   }
   .image-container {
-    width: 28vw;
-	  height: 28vw;
+    width: 29vw;
+	  height: 29vw;
   }
   
   
   .artist-name {
-	  width: 28vw;
+	  width: 29vw;
     font-size: 2.67vw;
   }
   
@@ -178,17 +183,17 @@ body {
   }
 
   .flexbox {
-    margin: 60px 3vw auto 3vw;
-    width: 94vw;
+    margin: 60px 4vw auto 4vw;
+    width: 92vw;
   }
   .image-container {
-    width: 42vw;
-	  height: 42vw;
+    width: 44vw;
+	  height: 44vw;
   }
   
   
   .artist-name {
-	  width: 42vw;
+	  width: 44vw;
     font-size: 4vw;
   }
   
