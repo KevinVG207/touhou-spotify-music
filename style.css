@@ -4,6 +4,10 @@ body {
   height: auto!important;
 }
 
+noscript {
+  color: #FFFFFF;
+}
+
 .menu {
   background-color: #333333!important;
 }

@@ -38,6 +38,7 @@
     </div>
   </div>
   <div class="flexbox">
+    <noscript>Your browser does not support JavaScript or JavaScript has been disabled.<br>This website relies on JavaScript, so please enable it or use another browser.</noscript>
   </div>
   <div class="ui inverted vertical footer segment">
     <div class="ui center aligned container">
@@ -77,10 +78,11 @@
     var fb = document.getElementsByClassName("flexbox")[0];
     const response = await fetch('artists.json');
     const data = await response.json();
-	
+    var htmlcode = ``;
     data.forEach(entry => {
-        fb.innerHTML += `<div class="artist-container"><div class="image-container"><img src="${entry.img}" alt="logo" class="artist-image"><div class="middle"><a href="${entry.link}" target="_blank" class="button-text">Open Spotify</a></div></div><p class="artist-name">${entry.title}</p></div>`
+      htmlcode += `<div class="artist-container"><div class="image-container"><img src="${entry.img}" alt="logo" class="artist-image"><div class="middle"><a href="${entry.link}" target="_blank" class="button-text">Open Spotify</a></div></div><p class="artist-name">${entry.title}</p></div>`
     });
+    fb.innerHTML += htmlcode;
    }
    if (document.addEventListener) document.addEventListener("DOMContentLoaded", autorun, false);
    else if (document.attachEvent) document.attachEvent("onreadystatechange", autorun);
