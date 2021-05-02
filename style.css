@@ -106,7 +106,7 @@ noscript {
 
 .romanized {
   margin: 0;
-  font-size: 0.8vw;
+  font-size: 1vw;
 }
 
 .twitterbutton {
@@ -130,7 +130,7 @@ noscript {
   }
 
   .romanized {
-    font-size: 0.96vw;
+    font-size: 1.2vw;
   }
   
   .button-text {
@@ -155,7 +155,7 @@ noscript {
   }
 
   .romanized {
-    font-size: 1.2vw;
+    font-size: 1.5vw;
   }
   
   .button-text {
@@ -181,7 +181,7 @@ noscript {
   }
 
   .romanized {
-    font-size: 1.6vw;
+    font-size: 2vw;
   }
   
   .button-text {
@@ -215,7 +215,7 @@ noscript {
   }
 
   .romanized {
-    font-size: 2.4vw;
+    font-size: 3vw;
   }
   
   .button-text {
