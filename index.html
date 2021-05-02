@@ -80,7 +80,11 @@
     const data = await response.json();
     var htmlcode = ``;
     data.forEach(entry => {
-      htmlcode += `<div class="artist-container"><div class="image-container"><img src="${entry.img}" alt="logo" class="artist-image"><div class="middle"><a href="${entry.link}" target="_blank" class="button-text">Open Spotify</a></div></div><p class="artist-name">${entry.title}</p></div>`
+      htmlcode += `<div class="artist-container"><div class="image-container"><img src="${entry.img}" alt="logo" class="artist-image"><div class="middle"><a href="${entry.link}" target="_blank" class="button-text">Open Spotify</a></div></div><p class="artist-name">${entry.title}`;
+      if (entry.hasOwnProperty("romanized")) {
+        htmlcode += `<p class="artist-name romanized">${entry.romanized}</p>`;
+      }
+      htmlcode +=`</p></div>`;
     });
     fb.innerHTML += htmlcode;
    }
