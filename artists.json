@@ -565,6 +565,11 @@
 		"img":"img/monoRosetta.jfif"
 	},
 	{
+		"title":"Moon-Tone",
+		"link":"https://open.spotify.com/artist/3M9tax4u9bCrcZpos8jOgU",
+		"img":"img/moonTone.jfif"
+	},
+	{
 		"title":"もりのあるまち",
 		"romanized":"Morinoarumachi",
 		"link":"https://open.spotify.com/artist/27cPQcXdYIw765PaW5wOsg",
@@ -684,6 +689,11 @@
 		"title":"Rave Warrock",
 		"link":"https://open.spotify.com/artist/19rQV3sBLQ4aMANo4yzACp",
 		"img":"img/raveWarrock.jfif"
+	},
+	{
+		"title":"RichaadEB",
+		"link":"https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx",
+		"img":"img/richaadEB.jfif"
 	},
 	{
 		"title":"風鈴ぼるけいの",
@@ -933,6 +943,11 @@
 		"title":"XL Project",
 		"link":"https://open.spotify.com/artist/6CrtlzMMOwZxfDdzHWTOxD",
 		"img":"img/xlProject.jfif"
+	},
+	{
+		"title":"YaboiMatoi",
+		"link":"https://open.spotify.com/artist/5wvEC0Yx7pp3srptbe3e7P",
+		"img":"img/yaboiMatoi.jfif"
 	},
 	{
 		"title":"矢追春樹",
