@@ -8,7 +8,7 @@
     <meta name="keywords" content="touhou,doujin,dojin,spotify,music,東方,東方Project,サークル,thmusic,音楽,thmusicspotify,touhoumusicspotify"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1"/>
     <meta property="og:title" content="Touhou Spotify Music"/>
-    <meta property="og:description" content="Touhou Doujin Circle Spotify List."/>
+    <meta property="og:description" content="Touhou Doujin Circle Spotify List to find Touhou artists easily."/>
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="http://www.thspotify.moe/"/>
     <meta property="og:image" content="http://www.thspotify.moe/img/yinYang-green-opaque.png"/>
@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="style.css" type="text/css"/>
     <link rel="stylesheet" href="semantic.min.css" type="text/css"/>
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
+    <link rel="canonical" href="http://www.thspotify.moe/"/>
   </head>
   <body>
   <div class="ui fixed menu">
@@ -85,7 +86,7 @@
     const data = await response.json();
     var htmlcode = ``;
     data.forEach(entry => {
-      htmlcode += `<div class="artist-container"><div class="image-container"><img src="${entry.img}" alt="logo" class="artist-image"><div class="middle"><a href="${entry.link}" target="_blank" class="button-text">Open Spotify</a></div></div><p class="artist-name">${entry.title}`;
+      htmlcode += `<div class="artist-container"><div class="image-container"><img src="${entry.img}" alt="${entry.title}" class="artist-image"><div class="middle"><a href="${entry.link}" target="_blank" class="button-text">Open Spotify</a></div></div><p class="artist-name">${entry.title}`;
       if (entry.hasOwnProperty("romanized")) {
         htmlcode += `<p class="artist-name romanized">${entry.romanized}</p>`;
       }
