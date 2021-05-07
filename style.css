@@ -1,3 +1,4 @@
+
 body {
   background-color: #101010!important;
   margin: 0!important;
@@ -90,6 +91,7 @@ noscript {
   border-radius: 0.28571429rem;
   text-decoration: none;
   font-family: 'Trebuchet MS', sans-serif;
+  font-display: fallback;
 }
 
 .artist-name {
@@ -102,12 +104,14 @@ noscript {
   font-size: 1.33333333333333vw;
   color: #f1f1f1;
   word-wrap: break-word;
+  font-display: fallback;
 }
 
 .romanized {
   margin: 0;
   font-size: 1vw;
   color: #999;
+  font-display: fallback;
 }
 
 .twitterbutton {
