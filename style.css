@@ -144,18 +144,19 @@ noscript {
 
 #mobile-search {
   width: 100vw;
+  display: none;
 }
 
 #mobile-search * {
   width: inherit;
 }
 
-#mobile-search-icon{
-  width: 36px;
+#mobile-search .item {
+  padding-top: 0;
 }
 
-#mobile-search {
-  display: none;
+#mobile-search-icon{
+  width: 36px;
 }
 
 /* 5 WIDE */
@@ -246,7 +247,7 @@ noscript {
   }
 
   .flexbox {
-    margin-top: 128px;
+    margin-top: 115px;
   }
 }
 
@@ -265,7 +266,7 @@ noscript {
 /* 2 WIDE */
 @media (max-width: 413px) {
   .flexbox {
-    margin: 128px 4vw auto 4vw;
+    margin: 115px 4vw auto 4vw;
     width: 92vw;
   }
   .image-container {
