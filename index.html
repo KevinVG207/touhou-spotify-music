@@ -31,6 +31,12 @@
         TH Spotify Music
       </p>
       <div class="right item">
+        <div class="ui search" id="desktop-search">
+          <div class="ui icon input">
+            <input class="prompt searchbar" type="text" placeholder="Find an artist..." onkeyup="searchFilter()">
+            <i class="search icon"></i>
+          </div>
+        </div>
         <a href="https://twitter.com/ThSpotify" target="_blank">
           <button class="ui twitter button desktopbutton">
             <i class="twitter icon"></i>
@@ -49,6 +55,16 @@
             <i class="discord icon"></i>
           </button>
         </a>
+      </div>
+    </div>
+    <div class="ui container" id="mobile-search">
+      <div class="item">
+        <div class="ui search">
+          <div class="ui icon input">
+            <input class="prompt searchbar" type="text" placeholder="Find an artist..." onkeyup="searchFilter()">
+            <i class="search icon" id="mobile-search-icon"></i>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -88,8 +104,28 @@
     </div>
   </div>
   <script type="text/javascript">
-   async function autorun()
-   {
+    function searchFilter() {
+      var input, filter, box, artist, a, i, txtValue;
+      bars = document.getElementsByClassName("searchbar");
+      filter = bars[0].value.toLowerCase() + bars[1].value.toLowerCase();
+      box = document.getElementsByClassName("flexbox")[0];
+      artist = box.getElementsByClassName("artist-container");
+      for (i = 0; i < artist.length; i++) {
+        textboxes = artist[i].getElementsByClassName("artist-name");
+        txtValue = "";
+        for (j = 0; j < textboxes.length; j++) {
+          txtValue += textboxes[j].textContent;
+        }
+        if (txtValue.toLowerCase().indexOf(filter) > -1) {
+          artist[i].style.display = "";
+        } else {
+          artist[i].style.display = "none";
+        }
+      }
+    }
+
+    async function autorun()
+    {
     var fb = document.getElementsByClassName("flexbox")[0];
     const response = await fetch('artists.json');
     const data = await response.json();
@@ -102,10 +138,10 @@
       htmlcode +=`</p></div>`;
     });
     fb.innerHTML += htmlcode;
-   }
-   if (document.addEventListener) document.addEventListener("DOMContentLoaded", autorun, false);
-   else if (document.attachEvent) document.attachEvent("onreadystatechange", autorun);
-   else window.onload = autorun;
+    }
+    if (document.addEventListener) document.addEventListener("DOMContentLoaded", autorun, false);
+    else if (document.attachEvent) document.attachEvent("onreadystatechange", autorun);
+    else window.onload = autorun;
   </script>
   </body>
 </html>
