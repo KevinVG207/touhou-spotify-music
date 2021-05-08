@@ -30,6 +30,9 @@ noscript {
 #dc-mobile {
   background-color: #6F85D2;
   color: #F7F7F7;
+}
+
+.ui.button.mobilebutton {
   display: none;
 }
 
@@ -195,16 +198,19 @@ noscript {
   }
 }
 
-/* 2 WIDE */
-@media (max-width: 413px) {
-  #dc-mobile {
+/* Collapse Buttons */
+@media (max-width: 486px) {
+  .ui.button.mobilebutton {
     display: inline-block;
   }
 
-  #dc-desktop {
+  .ui.button.desktopbutton {
     display: none;
   }
+}
 
+/* 2 WIDE */
+@media (max-width: 413px) {
   .flexbox {
     margin: 60px 4vw auto 4vw;
     width: 92vw;
