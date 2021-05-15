@@ -246,6 +246,11 @@
 		"img":"dreamersGarden.jfif"
 	},
 	{
+		"title":"DualInsomiNa",
+		"link":"https://open.spotify.com/artist/6wZis6SPAo8Psdk2XGL8yq",
+		"img":"dualinsomina.jfif"
+	},
+	{
 		"title":"EastNewSound",
 		"link":"https://open.spotify.com/artist/7EOnGG4jIYo7o8jt5Mnhox",
 		"img":"eastNewSound.jfif"
@@ -835,14 +840,14 @@
 		"img":"starlessTrilogy.jfif"
 	},
 	{
-		"title":"Swinf Of The Dead",
-		"link":"https://open.spotify.com/artist/4zd8pOTFHEzC3CSJhGfVnm",
-		"img":"swinfOfTheDead.jfif"
-	},
-	{
 		"title":"SWING HOLIC (from SOUND HOLIC)",
 		"link":"https://open.spotify.com/artist/7f8VW1ZcnelMzuggQbRaPz",
 		"img":"swingHolic.jfif"
+	},
+	{
+		"title":"Swing Of The Dead",
+		"link":"https://open.spotify.com/artist/4zd8pOTFHEzC3CSJhGfVnm",
+		"img":"swingOfTheDead.jfif"
 	},
 	{
 		"title":"t0m0h1r0",
