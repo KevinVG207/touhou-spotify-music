@@ -131,7 +131,7 @@
     const data = await response.json();
     var htmlcode = ``;
     data.forEach(entry => {
-      htmlcode += `<div class="artist-container"><div class="image-container"><img srcset="img/320/${entry.img} 320w, img/640/${entry.img} 640w" sizes="(max-width: 2000px) 320px, 640px" src="${entry.img}" alt="${entry.title}" class="artist-image"><div class="middle"><a href="${entry.link}" target="_blank" class="button-text">Open Spotify</a></div></div><p class="artist-name">${entry.title}`;
+      htmlcode += `<div class="artist-container"><div class="image-container"><img srcset="img/320/${entry.img} 320w, img/640/${entry.img} 640w" sizes="(max-width: 2000px) 320px, 640px" src="${entry.img}" alt="${entry.title}" class="artist-image" loading="lazy"><div class="middle"><a href="${entry.link}" target="_blank" class="button-text">Open Spotify</a></div></div><p class="artist-name">${entry.title}`;
       if (entry.hasOwnProperty("romanized")) {
         htmlcode += `<p class="artist-name romanized">${entry.romanized}</p>`;
       }
