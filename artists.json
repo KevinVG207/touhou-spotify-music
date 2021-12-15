@@ -30,9 +30,33 @@
 		"img":"aggressiveBeatCircle.jfif"
 	},
 	{
+		"title":"暁Records",
+		"romanized":"Akatsuki Records",
+		"link":"https://open.spotify.com/artist/6j1DAkRNEEfYCkASzuPFfZ",
+		"img":"akatsukiRecords.jfif"
+	},
+	{
 		"title":"Alstroemeria Records",
 		"link":"https://open.spotify.com/artist/3wsXGKiJ4bCByD0jHHbL4Y",
 		"img":"alstroemeriaRecords.jfif"
+	},
+	{
+		"title":"幽幻魁舎アルテンベルク",
+		"romanized":"Altenberg GmbH",
+		"link":"https://open.spotify.com/artist/4IzXx5fIZpCGzzLR0LIFNZ",
+		"img":"altenbergGmbh.jfif"
+	},
+	{
+		"title":"天宮みや(少女フラクタル)",
+		"romanized":"Amamiya Miya (Shoujo Fractal)",
+		"link":"https://open.spotify.com/artist/2RiplZCT2TNAPFAtLYcvE9",
+		"img":"amamiyaMiya.jfif"
+	},
+	{
+		"title":"天音",
+		"romanized":"Amane",
+		"link":"https://open.spotify.com/artist/0SOiMVeTNSWUqXHlXAN8a2",
+		"img":"amane.jfif"
 	},
 	{
 		"title":"Amateras Records",
@@ -55,6 +79,18 @@
 		"img":"angelicca.jfif"
 	},
 	{
+		"title":"荒御霊",
+		"romanized":"AramiTama",
+		"link":"https://open.spotify.com/artist/19tLo5AZ9Uw9VZyEgmk8Sw",
+		"img":"aramiTama.jfif"
+	},
+	{
+		"title":"領域ZERO",
+		"romanized":"Area-ZERO",
+		"link":"https://open.spotify.com/artist/4IZ7MQUmj4IYj1NbKvHuAO",
+		"img":"areaZero.jfif"
+	},
+	{
 		"title":"Arisaki Works",
 		"link":"https://open.spotify.com/artist/49OK3xOvAloRPhYAk6E3zN",
 		"img":"arisakiWorks.jfif"
@@ -64,6 +100,12 @@
 		"romanized":"ARM's Armageddon Records",
 		"link":"https://open.spotify.com/artist/4jZNNFpPhuD3YVmRqcqXTD",
 		"img":"armNoArmageddonRecords.jfif"
+	},
+	{
+		"title":"アルネル",
+		"romanized":"ARUNERU",
+		"link":"https://open.spotify.com/artist/4mt3EIRaeqsDgEMsXdqYdt",
+		"img":"aruneru.jfif"
 	},
 	{
 		"title":"As/Hi Soundworks",
@@ -87,6 +129,12 @@
 		"img":"atainchiRecords.jfif"
 	},
 	{
+		"title":"アベニュールーム",
+		"romanized":"Avenue Room",
+		"link":"https://open.spotify.com/artist/41OBzV3O9IKiDUC57Bi1sA",
+		"img":"avenueRoom.jfif"
+	},
+	{
 		"title":"beth_tear",
 		"link":"https://open.spotify.com/artist/3nUZV6ERSSv5vpmjkidF8t",
 		"img":"beth_tear.jfif"
@@ -107,6 +155,12 @@
 		"img":"bunnyRhythm.jfif"
 	},
 	{
+		"title":"豚乙女",
+		"romanized":"BUTAOTOME",
+		"link":"https://open.spotify.com/artist/7ejGih4hGEmw5dgVy4jgdZ",
+		"img":"butaOtome.jfif"
+	},
+	{
 		"title":"C-CLAYS",
 		"link":"https://open.spotify.com/artist/62hL4AF7h3iPv5Y8k0PTMV",
 		"img":"cClays.jfif"
@@ -115,6 +169,18 @@
 		"title":"C-CLAYS & K2 SOUND",
 		"link":"https://open.spotify.com/artist/3p6o2ZfdeIMe95Uzi9173B",
 		"img":"cClaysAndK2Sound.jfif"
+	},
+	{
+		"title":"梶迫小道具店",
+		"romanized":"Cajiva's Gadget Shop",
+		"link":"https://open.spotify.com/artist/64IhmaGPUvFdZeCW7Eyg81",
+		"img":"cajivaKodouguTen.jfif"
+	},
+	{
+		"title":"チョー314",
+		"romanized":"Cho314",
+		"link":"https://open.spotify.com/artist/6Bkd7aQ5RuJ7Q7Rnc7e82H",
+		"img":"cho314.jfif"
 	},
 	{
 		"title":"CielArc",
@@ -150,6 +216,24 @@
 		"title":"CYTOKINE",
 		"link":"https://open.spotify.com/artist/1pP6aT68edjzepk1ndnPHV",
 		"img":"cytokine.jfif"
+	},
+	{
+		"title":"第九分岐点",
+		"romanized":"daikubunkiten",
+		"link":"https://open.spotify.com/artist/4a6jdiV31UO4AEB8nHzYHr",
+		"img":"daikuBunkiten.jfif"
+	},
+	{
+		"title":"凋叶棕",
+		"romanized":"Diao ye zong",
+		"link":"https://open.spotify.com/artist/1eavaF4JYVytwilMtljNhO",
+		"img":"diaoYeZong.jfif"
+	},
+	{
+		"title":"凋叶棕&ホシニセ",
+		"romanized":"Diao ye zong & nebulastall",
+		"link":"https://open.spotify.com/artist/4w6FxFejIidHeyKbg2Alx5",
+		"img":"diaoYeZongAndNebulastall.jfif"
 	},
 	{
 		"title":"DiGiTAL WiNG",
@@ -207,9 +291,63 @@
 		"img":"frozenStarfall.jfif"
 	},
 	{
+		"title":"フーリンキャットマーク",
+		"romanized":"Fuling Cat Mark",
+		"link":"https://open.spotify.com/artist/5zgkcI2jjHuKPhTaJIjIpp",
+		"img":"fulingCatMark.jfif"
+	},
+	{
+		"title":"少女理論観測所",
+		"romanized":"Girls Logic Observatory",
+		"link":"https://open.spotify.com/artist/2nwIeM1Ph9IiHtFuNvhFDu",
+		"img":"girlsLogicObservatory.jfif"
+	},
+	{
+		"title":"ゴツまさ倶楽部",
+		"romanized":"Gotsumasa Club",
+		"link":"https://open.spotify.com/artist/1kKjiFI5mi6Yhy99a5kc6M",
+		"img":"gotsumasaClub.jfif"
+	},
+	{
+		"title":"はちみつれもん",
+		"romanized":"Hachimitsu-Lemon",
+		"link":"https://open.spotify.com/artist/1zlT4uIueqItXMmtmWjIY4",
+		"img":"hachimitsuLemon.jfif"
+	},
+	{
 		"title":"Hachimitsu-Lemon × Aftergrow",
 		"link":"https://open.spotify.com/artist/47ikPRGgrHOh3VggJaItkq",
 		"img":"hachimitsuLemonAftergrow.jfif"
+	},
+	{
+		"title":"白鳳(Ende der Welt)",
+		"romanized":"HAKUHO",
+		"link":"https://open.spotify.com/artist/2aY1oH11m0pK3CED3J1n4R",
+		"img":"hakuHou.jfif"
+	},
+	{
+		"title":"花たん",
+		"romanized":"Hanatan",
+		"link":"https://open.spotify.com/artist/5rPvFyKSGl6qH3czNk3rov",
+		"img":"hanaTan.jfif"
+	},
+	{
+		"title":"発熱巫女〜ず",
+		"romanized":"Hatsunetsumiko's",
+		"link":"https://open.spotify.com/artist/2MhHrMKFVpg0YhVf0ujllF",
+		"img":"hatsunetsumikos.jfif"
+	},
+	{
+		"title":"イノライ",
+		"romanized":"Inorai",
+		"link":"https://open.spotify.com/artist/5Pc4fVmzwgQj2awPrGRue7",
+		"img":"inorai.jfif"
+	},
+	{
+		"title":"インスタントフィルハーモニー",
+		"romanized":"Instant Philharmonic",
+		"link":"https://open.spotify.com/artist/5WoQDUDAS4piawqHVoNmbQ",
+		"img":"instantPhilharmonic.jfif"
 	},
 	{
 		"title":"INTX Rec.",
@@ -222,9 +360,21 @@
 		"img":"iosys.jfif"
 	},
 	{
+		"title":"以呂波屋",
+		"romanized":"Iroha-ya",
+		"link":"https://open.spotify.com/artist/50XWHixU0ferZqzwA5QC0g",
+		"img":"irohaYa.jfif"
+	},
+	{
 		"title":"IRON ATTACK!",
 		"link":"https://open.spotify.com/artist/0OYzQGdakCiu2gP8tC1Qwa",
 		"img":"ironAttack.jfif"
+	},
+	{
+		"title":"いとうかなこ",
+		"romanized":"Itou Kanako",
+		"link":"https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN",
+		"img":"kanakoItou.jfif"
 	},
 	{
 		"title":"Jerico",
@@ -247,6 +397,78 @@
 		"img":"kai.jfif"
 	},
 	{
+		"title":"かめかっぱ",
+		"romanized":"KameKappa",
+		"link":"https://open.spotify.com/artist/0hVGuUCucSUhu2iEw8k5Nu",
+		"img":"kameKappa.jfif"
+	},
+	{
+		"title":"かちかち山",
+		"romanized":"katikatiyama",
+		"link":"https://open.spotify.com/artist/3CK8eFrYidvILf2qyAkc2p",
+		"img":"katikatiyama.jfif"
+	},
+	{
+		"title":"加藤ありさ",
+		"romanized":"Katou Arisa",
+		"link":"https://open.spotify.com/artist/6UXtgrOLvtgkGgnrkNBA5O",
+		"img":"katouArisa.jfif"
+	},
+	{
+		"title":"カワテ☆ブクロ",
+		"romanized":"Kawate☆Bukuro",
+		"link":"https://open.spotify.com/artist/05B4H9eXf6Lbx5zgFEAOOs",
+		"img":"kawateBukuro.jfif"
+	},
+	{
+		"title":"机上の空想理論",
+		"romanized":"Kijou no Kuusou Riron",
+		"link":"https://open.spotify.com/artist/3ukhQ2rVD1bf0SyZY5JKYv",
+		"img":"kijouNoKuusouriron.jfif"
+	},
+	{
+		"title":"岸田教団＆THE明星ロケッツ",
+		"romanized":"Kishida Kyoudan & The Akeboshi Rockets",
+		"link":"https://open.spotify.com/artist/1zPnpAM7fGFr7pl8OSNvak",
+		"img":"kisidaKyodanAndTheAkeboshiRockets.jfif"
+	},
+	{
+		"title":"ナイフ",
+		"romanized":"Knife",
+		"link":"https://open.spotify.com/artist/4YlOMzdVKMLLaYe5sWijAE",
+		"img":"knife.jfif"
+	},
+	{
+		"title":"ここから先、34小節目。",
+		"romanized":"Koko Kara Saki, 34 Syosetsu Me.",
+		"link":"https://open.spotify.com/artist/4kPjXAJKMU1i6yWY4bVZUV",
+		"img":"kokoKaraSaki34SyosetsuMe.jfif"
+	},
+	{
+		"title":"交響アクティブNEETs",
+		"romanized":"Kokyo Active NEETs",
+		"link":"https://open.spotify.com/artist/7zWsYDdOdderAU20zDNGtv",
+		"img":"kokyoActiveNeets.jfif"
+	},
+	{
+		"title":"狐夢想屋",
+		"romanized":"Komsoya",
+		"link":"https://open.spotify.com/artist/2Zb3DOR6FpuaaGXayQhrCn",
+		"img":"komsoya.jfif"
+	},
+	{
+		"title":"狐夢想屋×ゼッケン屋",
+		"romanized":"Komsoya×Zekken'ya",
+		"link":"https://open.spotify.com/artist/2eCDMrE1jcUOkKdHwitWBA",
+		"img":"komsoyaZekkenya.jfif"
+	},
+	{
+		"title":"小峠舞",
+		"romanized":"Kotouge Mai",
+		"link":"https://open.spotify.com/artist/07UfWaYCN4AcNsuoHiwO0T",
+		"img":"kotougeMai.jfif"
+	},
+	{
 		"title":"KUMI",
 		"link":"https://open.spotify.com/artist/5Wl5ebiNDoxL3SZ7vmYKE7",
 		"img":"kumi.jfif"
@@ -256,6 +478,12 @@
 		"romanized":"KUMI/Wotamin",
 		"link":"https://open.spotify.com/artist/03544fHwOa8uNzBSsb1cSn",
 		"img":"kumiWotamin.jfif"
+	},
+	{
+		"title":"黒崎れおん",
+		"romanized":"Kurosaki Reon",
+		"link":"https://open.spotify.com/artist/26Sb3IJw3YwgRSBcV2ArZu",
+		"img":"kurosakiReon.jfif"
 	},
 	{
 		"title":"Login Records",
@@ -286,14 +514,62 @@
 		"img":"mCommunications.jfif"
 	},
 	{
+		"title":"マッコ屋",
+		"romanized":"Maccoya",
+		"link":"https://open.spotify.com/artist/2757Iemf6981KnHGSIi8GS",
+		"img":"maccoya.jfif"
+	},
+	{
+		"title":"街角麻婆豆",
+		"romanized":"Machikado-Mapoze",
+		"link":"https://open.spotify.com/artist/0o2LZz2Uq9pKEQ5OeYkknJ",
+		"img":"machikadoMapoze.jfif"
+	},
+	{
+		"title":"舞風",
+		"romanized":"MAIKAZE",
+		"link":"https://open.spotify.com/artist/0ms6Dm9K4n7qpKM3zadqhX",
+		"img":"maikaze.jfif"
+	},
+	{
 		"title":"Manaya",
 		"link":"https://open.spotify.com/artist/0niXjLt4X9wI8MbpZcVU8y",
 		"img":"manaya.jfif"
 	},
 	{
+		"title":"まらしぃ",
+		"romanized":"Marasy",
+		"link":"https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV",
+		"img":"marasy.jfif"
+	},
+	{
+		"title":"まりつみ",
+		"romanized":"maritumix",
+		"link":"https://open.spotify.com/artist/20BShuyC77jh7BOn3NbPab",
+		"img":"maritumix.jfif"
+	},
+	{
 		"title":"Melodic Taste",
 		"link":"https://open.spotify.com/artist/24Q1Su2dVUZ7vVGletpAbI",
 		"img":"melodicTaste.jfif"
+	},
+	{
+		"title":"メンヘラテレビサイズ",
+		"romanized":"menheraTVsize",
+		"link":"https://open.spotify.com/artist/2TpXM0DKLlqSNdmFVKTYZZ",
+		"img":"menheraTVSize.jfif"
+	},
+	{
+		"title":"めらみぽっぷ",
+		"romanized":"Meramipop",
+		"link":"https://open.spotify.com/artist/5xABMtpEuALfLxqY3kBSix",
+		"img":"meramipop.jfif"
+	},
+	{
+		"title":"メタルナイト",
+		"romanized":"Metal Night",
+		"link":"https://open.spotify.com/artist/3FE9rGrXMwgfvezSZoUDIw",
+		"img":"metalNight.jfif"
 	},
 	{
 		"title":"miko",
@@ -326,6 +602,30 @@
 		"img":"moonTone.jfif"
 	},
 	{
+		"title":"非可逆リズム",
+		"romanized":"Morimori Atsushi",
+		"link":"https://open.spotify.com/artist/0Er74BtwrPM37DLlTMoQ88",
+		"img":"morimoriAtsushi.jfif"
+	},
+	{
+		"title":"もりのあるまち",
+		"romanized":"Morinoarumachi",
+		"link":"https://open.spotify.com/artist/27cPQcXdYIw765PaW5wOsg",
+		"img":"morinoarumachi.jfif"
+	},
+	{
+		"title":"舞音KAGURA",
+		"romanized":"MUON KAGURA",
+		"link":"https://open.spotify.com/artist/186EtvfKIM4ziAvKKphxwY",
+		"img":"muonKagura.jfif"
+	},
+	{
+		"title":"群雨アンブレイラ",
+		"romanized":"Murasame Umbrella",
+		"link":"https://open.spotify.com/artist/0rrudUsI6G6IsoPXmPSywJ",
+		"img":"murasameUmbrella.jfif"
+	},
+	{
 		"title":"myu314",
 		"link":"https://open.spotify.com/artist/4EV6LvhefPfN6CwhpC5bxW",
 		"img":"myu314.jfif"
@@ -346,9 +646,45 @@
 		"img":"nanaTakahashi.jfif"
 	},
 	{
+		"title":"ナオキ",
+		"romanized":"Naoki",
+		"link":"https://open.spotify.com/artist/1p3nZYt0UiNip4hSLBGzLb",
+		"img":"naoki.jfif"
+	},
+	{
+		"title":"ねこみりん",
+		"romanized":"nekomirin",
+		"link":"https://open.spotify.com/artist/5yTgMHw46kTdYH2DKILKdf",
+		"img":"nekomirin.jfif"
+	},
+	{
 		"title":"NETCAVY RECORDS",
 		"link":"https://open.spotify.com/artist/5XFLBgxX3aFnN9hmyT839c",
 		"img":"netcavyRecords.jfif"
+	},
+	{
+		"title":"ぬまうおハウス",
+		"romanized":"Numauo House",
+		"link":"https://open.spotify.com/artist/1076dDtBg5c5kGkBswTXNX",
+		"img":"numauoHouse.jfif"
+	},
+	{
+		"title":"オーライフジャパン",
+		"romanized":"O-LIFE Japan",
+		"link":"https://open.spotify.com/artist/0BFapXkORU1HQB9VL5QfPO",
+		"img":"oLifeJp.jfif"
+	},
+	{
+		"title":"O太 with Taka from Sun Flower Field",
+		"romanized":"O-ta with Taka from Sun Flower Field",
+		"link":"https://open.spotify.com/artist/1biQLT3VoSdgC351XaDLPt",
+		"img":"otaWithTakaFromSunFlowerField.jfif"
+	},
+	{
+		"title":"オノ - axeempty",
+		"romanized":"Ono - axeempty",
+		"link":"https://open.spotify.com/artist/6gs0Dyim0S3zpW0hgbz5BH",
+		"img":"onoAxeempty.jfif"
 	},
 	{
 		"title":"Orpheus of Flame",
@@ -361,10 +697,10 @@
 		"img":"otakuEliteRecordings.jfif"
 	},
 	{
-		"title":"O太 with Taka from Sun Flower Field",
-		"romanized":"O-ta with Taka from Sun Flower Field",
-		"link":"https://open.spotify.com/artist/1biQLT3VoSdgC351XaDLPt",
-		"img":"otaWithTakaFromSunFlowerField.jfif"
+		"title":"パンマン",
+		"romanized":"Panman",
+		"link":"https://open.spotify.com/artist/7Bh6h51W9hz8OPLrq0h1qr",
+		"img":"panman.jfif"
 	},
 	{
 		"title":"PHOENIX Project",
@@ -382,6 +718,12 @@
 		"img":"projectRioss.jfif"
 	},
 	{
+		"title":"あらいぐまファクトリー",
+		"romanized":"Raccoon Factory",
+		"link":"https://open.spotify.com/artist/1LzOKUH9fZheWnd2S3exdn",
+		"img":"araigumaFactory.jfif"
+	},
+	{
 		"title":"Rave Warrock",
 		"link":"https://open.spotify.com/artist/19rQV3sBLQ4aMANo4yzACp",
 		"img":"raveWarrock.jfif"
@@ -390,6 +732,12 @@
 		"title":"RichaadEB",
 		"link":"https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx",
 		"img":"richaadEB.jfif"
+	},
+	{
+		"title":"風鈴ぼるけいの",
+		"romanized":"Ringing Volcano",
+		"link":"https://open.spotify.com/artist/2HTO7RwS4rxgrUgqyBtslk",
+		"img":"fuurinVolcano.jfif"
 	},
 	{
 		"title":"Rolling Contact",
@@ -418,6 +766,12 @@
 		"img":"snRavens.jfif"
 	},
 	{
+		"title":"石鹸屋",
+		"romanized":"Sekken'ya",
+		"link":"https://open.spotify.com/artist/6ZgLN0goJ6HzKDhoT49ObR",
+		"img":"sekkenYa.jfif"
+	},
+	{
 		"title":"Sensitive Heart",
 		"link":"https://open.spotify.com/artist/64xhnaaaLHmRMoo49mKzu9",
 		"img":"sensitiveHeart.jfif"
@@ -436,6 +790,36 @@
 		"title":"ShibayanRecords",
 		"link":"https://open.spotify.com/artist/0h8tSYXnFjmrLdUSGOKNSX",
 		"img":"shibayanRecords.jfif"
+	},
+	{
+		"title":"しもしゃん",
+		"romanized":"Shimosyan",
+		"link":"https://open.spotify.com/artist/3qXGnM2Hx52uw9qsERMrXw",
+		"img":"shimoshan.jfif"
+	},
+	{
+		"title":"森羅万象",
+		"romanized":"ShinRa-Bansho",
+		"link":"https://open.spotify.com/artist/5ofxS8vbpzqmcgfs8LouBQ",
+		"img":"shinraBansho.jfif"
+	},
+	{
+		"title":"森羅万象 × COOL＆CREATE × DiGiTAL WiNG",
+		"romanized":"ShinRa-Bansho × COOL＆CREATE × DiGiTAL WiNG",
+		"link":"https://open.spotify.com/artist/0CBtRH0OLdlMq4j0hAFLxD",
+		"img":"shinraBanshoCoolCreateDigitalWing.jfif"
+	},
+	{
+		"title":"舌打カーニバル",
+		"romanized":"Shitauchi Carnival",
+		"link":"https://open.spotify.com/artist/0LqHxB8YH5x1I5V0RUGEEi",
+		"img":"shitauchiCarnival.jfif"
+	},
+	{
+		"title":"少女フラクタル",
+		"romanized":"Shoujo Fractal",
+		"link":"https://open.spotify.com/artist/4c5aAgX0mGXErqYQRxKWWc",
+		"img":"shoujoFractal.jfif"
 	},
 	{
 		"title":"Siestail",
@@ -498,6 +882,12 @@
 		"img":"takamachiWalk.jfif"
 	},
 	{
+		"title":"魂音泉",
+		"romanized":"TAMAONSEN",
+		"link":"https://open.spotify.com/artist/7KETDASc4oTHgEAo7m1NpQ",
+		"img":"tamaonsen.jfif"
+	},
+	{
 		"title":"TAMUSIC",
 		"link":"https://open.spotify.com/artist/6roHEyIYylBfbgDyOq7lGL",
 		"img":"tamusic.jfif"
@@ -513,388 +903,16 @@
 		"img":"tatshMusicCircle.jfif"
 	},
 	{
-		"title":"Triple-R",
-		"link":"https://open.spotify.com/artist/1rsDR4RSBrEPhmaq50IT5r",
-		"img":"tripleR.jfif"
-	},
-	{
-		"title":"UNDEAD CORPORATION DOUJIN WORKS",
-		"link":"https://open.spotify.com/artist/5NETkMPykaG8ngC1VcubSX",
-		"img":"undeadCorporation.jfif"
-	},
-	{
-		"title":"Unity-Gain",
-		"link":"https://open.spotify.com/artist/248Gj17UxUYYqDek9uOtOd",
-		"img":"unityGain.jfif"
-	},
-	{
-		"title":"Unlucky Morpheus",
-		"link":"https://open.spotify.com/artist/3NyKjyguig68xw6kSpeDiW",
-		"img":"unluckyMorpheus.jfif"
-	},
-	{
-		"title":"waorlarts",
-		"link":"https://open.spotify.com/artist/6DdciFD54JNdjJWTT2r590",
-		"img":"waorlarts.jfif"
-	},
-	{
-		"title":"Water Color Melody.",
-		"link":"https://open.spotify.com/artist/566bZ3uQEakxAGsuO1x73R",
-		"img":"waterColorMelody.jfif"
-	},
-	{
-		"title":"XL Project",
-		"link":"https://open.spotify.com/artist/6CrtlzMMOwZxfDdzHWTOxD",
-		"img":"xlProject.jfif"
-	},
-	{
-		"title":"YaboiMatoi",
-		"link":"https://open.spotify.com/artist/5wvEC0Yx7pp3srptbe3e7P",
-		"img":"yaboiMatoi.jfif"
-	},
-	{
-		"title":"Yonder Voice",
-		"link":"https://open.spotify.com/artist/3nFZFc0DNsp0FPy1E3u78l",
-		"img":"yonderVoice.jfif"
-	},
-	{
-		"title":"Yunum",
-		"link":"https://open.spotify.com/artist/30m0MfmkXX7oOsMvkOWAl9",
-		"img":"yunum.jfif"
-	},
-	{
-		"title":"ZUN",
-		"link":"https://open.spotify.com/artist/7u6Gx54gVoqectnH929a5C",
-		"img":"zun.jfif"
-	},
-	{
-		"title":"ZYTOKINE",
-		"link":"https://open.spotify.com/artist/35rRbEecpKHkVVYnp7RArh",
-		"img":"zytokine.jfif"
-	},
-	{
-		"title":"アベニュールーム",
-		"romanized":"Avenue Room",
-		"link":"https://open.spotify.com/artist/41OBzV3O9IKiDUC57Bi1sA",
-		"img":"avenueRoom.jfif"
-	},
-	{
-		"title":"あらいぐまファクトリー",
-		"romanized":"Raccoon Factory",
-		"link":"https://open.spotify.com/artist/1LzOKUH9fZheWnd2S3exdn",
-		"img":"araigumaFactory.jfif"
-	},
-	{
-		"title":"アルネル",
-		"romanized":"ARUNERU",
-		"link":"https://open.spotify.com/artist/4mt3EIRaeqsDgEMsXdqYdt",
-		"img":"aruneru.jfif"
-	},
-	{
-		"title":"いとうかなこ",
-		"romanized":"Itou Kanako",
-		"link":"https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN",
-		"img":"kanakoItou.jfif"
-	},
-	{
-		"title":"イノライ",
-		"romanized":"Inorai",
-		"link":"https://open.spotify.com/artist/5Pc4fVmzwgQj2awPrGRue7",
-		"img":"inorai.jfif"
-	},
-	{
-		"title":"インスタントフィルハーモニー",
-		"romanized":"Instant Philharmonic",
-		"link":"https://open.spotify.com/artist/5WoQDUDAS4piawqHVoNmbQ",
-		"img":"instantPhilharmonic.jfif"
-	},
-	{
-		"title":"うさ",
-		"romanized":"Usa",
-		"link":"https://open.spotify.com/artist/68QLBeVcqJqjkiXPUxwiEx",
-		"img":"usa.jfif"
-	},
-	{
-		"title":"オーライフジャパン",
-		"romanized":"O-LIFE Japan",
-		"link":"https://open.spotify.com/artist/0BFapXkORU1HQB9VL5QfPO",
-		"img":"oLifeJp.jfif"
-	},
-	{
-		"title":"オノ - axeempty",
-		"romanized":"Ono - axeempty",
-		"link":"https://open.spotify.com/artist/6gs0Dyim0S3zpW0hgbz5BH",
-		"img":"onoAxeempty.jfif"
-	},
-	{
-		"title":"かちかち山",
-		"romanized":"katikatiyama",
-		"link":"https://open.spotify.com/artist/3CK8eFrYidvILf2qyAkc2p",
-		"img":"katikatiyama.jfif"
-	},
-	{
-		"title":"かめかっぱ",
-		"romanized":"KameKappa",
-		"link":"https://open.spotify.com/artist/0hVGuUCucSUhu2iEw8k5Nu",
-		"img":"kameKappa.jfif"
-	},
-	{
-		"title":"カワテ☆ブクロ",
-		"romanized":"Kawate☆Bukuro",
-		"link":"https://open.spotify.com/artist/05B4H9eXf6Lbx5zgFEAOOs",
-		"img":"kawateBukuro.jfif"
-	},
-	{
-		"title":"ここから先、34小節目。",
-		"romanized":"Koko Kara Saki, 34 Syosetsu Me.",
-		"link":"https://open.spotify.com/artist/4kPjXAJKMU1i6yWY4bVZUV",
-		"img":"kokoKaraSaki34SyosetsuMe.jfif"
-	},
-	{
-		"title":"ゴツまさ倶楽部",
-		"romanized":"Gotsumasa Club",
-		"link":"https://open.spotify.com/artist/1kKjiFI5mi6Yhy99a5kc6M",
-		"img":"gotsumasaClub.jfif"
-	},
-	{
-		"title":"しもしゃん",
-		"romanized":"Shimosyan",
-		"link":"https://open.spotify.com/artist/3qXGnM2Hx52uw9qsERMrXw",
-		"img":"shimoshan.jfif"
-	},
-	{
-		"title":"ジュクチョー",
-		"romanized":"zyukucho",
-		"link":"https://open.spotify.com/artist/0C7fdsIpfJqSB50AuGRvOM",
-		"img":"zyukucho.jfif"
-	},
-	{
-		"title":"ゼッケン屋",
-		"romanized":"Zekken'ya",
-		"link":"https://open.spotify.com/artist/5VTYzhywhpywadzJ9hCtDX",
-		"img":"zekkenya.jfif"
-	},
-	{
-		"title":"チョー314",
-		"romanized":"Cho314",
-		"link":"https://open.spotify.com/artist/6Bkd7aQ5RuJ7Q7Rnc7e82H",
-		"img":"cho314.jfif"
-	},
-	{
-		"title":"ついったー東方部",
-		"romanized":"Twitter Tohobu",
-		"link":"https://open.spotify.com/artist/3WJ4Ve1CPnv3FVDP6o6kEv",
-		"img":"twitterTohoBu.jfif"
-	},
-	{
-		"title":"ナイフ",
-		"romanized":"Knife",
-		"link":"https://open.spotify.com/artist/4YlOMzdVKMLLaYe5sWijAE",
-		"img":"knife.jfif"
-	},
-	{
-		"title":"ナオキ",
-		"romanized":"Naoki",
-		"link":"https://open.spotify.com/artist/1p3nZYt0UiNip4hSLBGzLb",
-		"img":"naoki.jfif"
-	},
-	{
-		"title":"ぬまうおハウス",
-		"romanized":"Numauo House",
-		"link":"https://open.spotify.com/artist/1076dDtBg5c5kGkBswTXNX",
-		"img":"numauoHouse.jfif"
-	},
-	{
-		"title":"ねこみりん",
-		"romanized":"nekomirin",
-		"link":"https://open.spotify.com/artist/5yTgMHw46kTdYH2DKILKdf",
-		"img":"nekomirin.jfif"
-	},
-	{
-		"title":"はちみつれもん",
-		"romanized":"Hachimitsu-Lemon",
-		"link":"https://open.spotify.com/artist/1zlT4uIueqItXMmtmWjIY4",
-		"img":"hachimitsuLemon.jfif"
-	},
-	{
-		"title":"パンマン",
-		"romanized":"Panman",
-		"link":"https://open.spotify.com/artist/7Bh6h51W9hz8OPLrq0h1qr",
-		"img":"panman.jfif"
-	},
-	{
-		"title":"フーリンキャットマーク",
-		"romanized":"Fuling Cat Mark",
-		"link":"https://open.spotify.com/artist/5zgkcI2jjHuKPhTaJIjIpp",
-		"img":"fulingCatMark.jfif"
-	},
-	{
-		"title":"マッコ屋",
-		"romanized":"Maccoya",
-		"link":"https://open.spotify.com/artist/2757Iemf6981KnHGSIi8GS",
-		"img":"maccoya.jfif"
-	},
-	{
-		"title":"まらしぃ",
-		"romanized":"Marasy",
-		"link":"https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV",
-		"img":"marasy.jfif"
-	},
-	{
-		"title":"まりつみ",
-		"romanized":"maritumix",
-		"link":"https://open.spotify.com/artist/20BShuyC77jh7BOn3NbPab",
-		"img":"maritumix.jfif"
-	},
-	{
-		"title":"メタルナイト",
-		"romanized":"Metal Night",
-		"link":"https://open.spotify.com/artist/3FE9rGrXMwgfvezSZoUDIw",
-		"img":"metalNight.jfif"
-	},
-	{
-		"title":"めらみぽっぷ",
-		"romanized":"Meramipop",
-		"link":"https://open.spotify.com/artist/5xABMtpEuALfLxqY3kBSix",
-		"img":"meramipop.jfif"
-	},
-	{
-		"title":"メンヘラテレビサイズ",
-		"romanized":"menheraTVsize",
-		"link":"https://open.spotify.com/artist/2TpXM0DKLlqSNdmFVKTYZZ",
-		"img":"menheraTVSize.jfif"
-	},
-	{
-		"title":"もりのあるまち",
-		"romanized":"Morinoarumachi",
-		"link":"https://open.spotify.com/artist/27cPQcXdYIw765PaW5wOsg",
-		"img":"morinoarumachi.jfif"
-	},
-	{
-		"title":"ユウノウミ",
-		"romanized":"Younoumi",
-		"link":"https://open.spotify.com/artist/4H3y8J1arm6BDOcwf3UBu5",
-		"img":"younoumi.jfif"
-	},
-	{
-		"title":"ヲタみん",
-		"romanized":"Wotamin",
-		"link":"https://open.spotify.com/artist/6JQ8sH2h7DvgI3d95evj5D",
-		"img":"wotamin.jfif"
-	},
-	{
 		"title":"上海アリス幻樂団",
 		"romanized":"Team Shanghai Alice",
 		"link":"https://open.spotify.com/artist/53UfU5Etv91LUU69GzTQ1X",
 		"img":"teamShanghaiAlice.jfif"
 	},
 	{
-		"title":"交響アクティブNEETs",
-		"romanized":"Kokyo Active NEETs",
-		"link":"https://open.spotify.com/artist/7zWsYDdOdderAU20zDNGtv",
-		"img":"kokyoActiveNeets.jfif"
-	},
-	{
-		"title":"以呂波屋",
-		"romanized":"Iroha-ya",
-		"link":"https://open.spotify.com/artist/50XWHixU0ferZqzwA5QC0g",
-		"img":"irohaYa.jfif"
-	},
-	{
-		"title":"凋叶棕",
-		"romanized":"Diao ye zong",
-		"link":"https://open.spotify.com/artist/1eavaF4JYVytwilMtljNhO",
-		"img":"diaoYeZong.jfif"
-	},
-	{
-		"title":"凋叶棕&ホシニセ",
-		"romanized":"Diao ye zong & nebulastall",
-		"link":"https://open.spotify.com/artist/4w6FxFejIidHeyKbg2Alx5",
-		"img":"diaoYeZongAndNebulastall.jfif"
-	},
-	{
-		"title":"加藤ありさ",
-		"romanized":"Katou Arisa",
-		"link":"https://open.spotify.com/artist/6UXtgrOLvtgkGgnrkNBA5O",
-		"img":"katouArisa.jfif"
-	},
-	{
 		"title":"外柿山",
 		"romanized":"Togakisan",
 		"link":"https://open.spotify.com/artist/2LJ2MdCBsdTwiKXi4h12Df",
 		"img":"togakisan.jfif"
-	},
-	{
-		"title":"天宮みや(少女フラクタル)",
-		"romanized":"Amamiya Miya (Shoujo Fractal)",
-		"link":"https://open.spotify.com/artist/2RiplZCT2TNAPFAtLYcvE9",
-		"img":"amamiyaMiya.jfif"
-	},
-	{
-		"title":"天音",
-		"romanized":"Amane",
-		"link":"https://open.spotify.com/artist/0SOiMVeTNSWUqXHlXAN8a2",
-		"img":"amane.jfif"
-	},
-	{
-		"title":"宵闇市場",
-		"romanized":"YOIYAMI-ICHIBA",
-		"link":"https://open.spotify.com/artist/7cd9luG0xFZEcthANZwEHJ",
-		"img":"yoiyamiIchiba.jfif"
-	},
-	{
-		"title":"小峠舞",
-		"romanized":"Kotouge Mai",
-		"link":"https://open.spotify.com/artist/07UfWaYCN4AcNsuoHiwO0T",
-		"img":"kotougeMai.jfif"
-	},
-	{
-		"title":"少女フラクタル",
-		"romanized":"Shoujo Fractal",
-		"link":"https://open.spotify.com/artist/4c5aAgX0mGXErqYQRxKWWc",
-		"img":"shoujoFractal.jfif"
-	},
-	{
-		"title":"少女理論観測所",
-		"romanized":"Girls Logic Observatory",
-		"link":"https://open.spotify.com/artist/2nwIeM1Ph9IiHtFuNvhFDu",
-		"img":"girlsLogicObservatory.jfif"
-	},
-	{
-		"title":"岸田教団＆THE明星ロケッツ",
-		"romanized":"Kishida Kyoudan & The Akeboshi Rockets",
-		"link":"https://open.spotify.com/artist/1zPnpAM7fGFr7pl8OSNvak",
-		"img":"kisidaKyodanAndTheAkeboshiRockets.jfif"
-	},
-	{
-		"title":"幽幻魁舎アルテンベルク",
-		"romanized":"Altenberg GmbH",
-		"link":"https://open.spotify.com/artist/4IzXx5fIZpCGzzLR0LIFNZ",
-		"img":"altenbergGmbh.jfif"
-	},
-	{
-		"title":"幽閉サテライト",
-		"romanized":"Yuuhei Satellite",
-		"link":"https://open.spotify.com/artist/2SAR9drBQcqYVx0hdZPVmo",
-		"img":"yuuheiSatellite.jfif"
-	},
-	{
-		"title":"彩音 〜xi-on〜",
-		"romanized":"xi-on",
-		"link":"https://open.spotify.com/artist/677CYbjdYd14bhjISkVTA3",
-		"img":"xion.jfif"
-	},
-	{
-		"title":"暁Records",
-		"romanized":"Akatsuki Records",
-		"link":"https://open.spotify.com/artist/6j1DAkRNEEfYCkASzuPFfZ",
-		"img":"akatsukiRecords.jfif"
-	},
-	{
-		"title":"机上の空想理論",
-		"romanized":"Kijou no Kuusou Riron",
-		"link":"https://open.spotify.com/artist/3ukhQ2rVD1bf0SyZY5JKYv",
-		"img":"kijouNoKuusouriron.jfif"
 	},
 	{
 		"title":"東京アクティブNEETs",
@@ -915,70 +933,9 @@
 		"img":"touhouJihen.jfif"
 	},
 	{
-		"title":"柚木梨沙(少女フラクタル)",
-		"romanized":"Yuzuki Risa (Shoujo Fractal)",
-		"link":"https://open.spotify.com/artist/1cVtOi5rgpcAJ5OAJskQhp",
-		"img":"yuzukiRisa.jfif"
-	},
-	{
-		"title":"梶迫小道具店",
-		"romanized":"Cajiva's Gadget Shop",
-		"link":"https://open.spotify.com/artist/64IhmaGPUvFdZeCW7Eyg81",
-		"img":"cajivaKodouguTen.jfif"
-	},
-	{
-		"title":"森羅万象",
-		"romanized":"ShinRa-Bansho",
-		"link":"https://open.spotify.com/artist/5ofxS8vbpzqmcgfs8LouBQ",
-		"img":"shinraBansho.jfif"
-	},
-	{
-		"title":"森羅万象 × COOL＆CREATE × DiGiTAL WiNG",
-		"romanized":"ShinRa-Bansho × COOL＆CREATE × DiGiTAL WiNG",
-		"link":"https://open.spotify.com/artist/0CBtRH0OLdlMq4j0hAFLxD",
-		"img":"shinraBanshoCoolCreateDigitalWing.jfif"
-	},
-	{
-		"title":"狐夢想屋",
-		"romanized":"Komsoya",
-		"link":"https://open.spotify.com/artist/2Zb3DOR6FpuaaGXayQhrCn",
-		"img":"komsoya.jfif"
-	},
-	{
-		"title":"狐夢想屋×ゼッケン屋",
-		"romanized":"Komsoya×Zekken'ya",
-		"link":"https://open.spotify.com/artist/2eCDMrE1jcUOkKdHwitWBA",
-		"img":"komsoyaZekkenya.jfif"
-	},
-	{
-		"title":"発熱巫女〜ず",
-		"romanized":"Hatsunetsumiko's",
-		"link":"https://open.spotify.com/artist/2MhHrMKFVpg0YhVf0ujllF",
-		"img":"hatsunetsumikos.jfif"
-	},
-	{
-		"title":"白鳳(Ende der Welt)",
-		"romanized":"HAKUHO",
-		"link":"https://open.spotify.com/artist/2aY1oH11m0pK3CED3J1n4R",
-		"img":"hakuHou.jfif"
-	},
-	{
-		"title":"矢追春樹",
-		"romanized":"Yaoi Haruki",
-		"link":"https://open.spotify.com/artist/69cLGkfMva1n1gTkmcYu4W",
-		"img":"yaoiHaruki.jfif"
-	},
-	{
-		"title":"石鹸屋",
-		"romanized":"Sekken'ya",
-		"link":"https://open.spotify.com/artist/6ZgLN0goJ6HzKDhoT49ObR",
-		"img":"sekkenYa.jfif"
-	},
-	{
-		"title":"第九分岐点",
-		"romanized":"daikubunkiten",
-		"link":"https://open.spotify.com/artist/4a6jdiV31UO4AEB8nHzYHr",
-		"img":"daikuBunkiten.jfif"
+		"title":"Triple-R",
+		"link":"https://open.spotify.com/artist/1rsDR4RSBrEPhmaq50IT5r",
+		"img":"tripleR.jfif"
 	},
 	{
 		"title":"築山さえ",
@@ -987,87 +944,130 @@
 		"img":"tsukiyamaSae.jfif"
 	},
 	{
-		"title":"群雨アンブレイラ",
-		"romanized":"Murasame Umbrella",
-		"link":"https://open.spotify.com/artist/0rrudUsI6G6IsoPXmPSywJ",
-		"img":"murasameUmbrella.jfif"
-	},
-	{
-		"title":"舌打カーニバル",
-		"romanized":"Shitauchi Carnival",
-		"link":"https://open.spotify.com/artist/0LqHxB8YH5x1I5V0RUGEEi",
-		"img":"shitauchiCarnival.jfif"
-	},
-	{
-		"title":"舞音KAGURA",
-		"romanized":"MUON KAGURA",
-		"link":"https://open.spotify.com/artist/186EtvfKIM4ziAvKKphxwY",
-		"img":"muonKagura.jfif"
-	},
-	{
-		"title":"舞風",
-		"romanized":"MAIKAZE",
-		"link":"https://open.spotify.com/artist/0ms6Dm9K4n7qpKM3zadqhX",
-		"img":"maikaze.jfif"
-	},
-	{
-		"title":"花たん",
-		"romanized":"Hanatan",
-		"link":"https://open.spotify.com/artist/5rPvFyKSGl6qH3czNk3rov",
-		"img":"hanaTan.jfif"
-	},
-	{
-		"title":"荒御霊",
-		"romanized":"AramiTama",
-		"link":"https://open.spotify.com/artist/19tLo5AZ9Uw9VZyEgmk8Sw",
-		"img":"aramiTama.jfif"
-	},
-	{
-		"title":"街角麻婆豆",
-		"romanized":"Machikado-Mapoze",
-		"link":"https://open.spotify.com/artist/0o2LZz2Uq9pKEQ5OeYkknJ",
-		"img":"machikadoMapoze.jfif"
-	},
-	{
-		"title":"豚乙女",
-		"romanized":"BUTAOTOME",
-		"link":"https://open.spotify.com/artist/7ejGih4hGEmw5dgVy4jgdZ",
-		"img":"butaOtome.jfif"
-	},
-	{
-		"title":"非可逆リズム",
-		"romanized":"Morimori Atsushi",
-		"link":"https://open.spotify.com/artist/0Er74BtwrPM37DLlTMoQ88",
-		"img":"morimoriAtsushi.jfif"
-	},
-	{
-		"title":"領域ZERO",
-		"romanized":"Area-ZERO",
-		"link":"https://open.spotify.com/artist/4IZ7MQUmj4IYj1NbKvHuAO",
-		"img":"areaZero.jfif"
-	},
-	{
-		"title":"風鈴ぼるけいの",
-		"romanized":"Ringing Volcano",
-		"link":"https://open.spotify.com/artist/2HTO7RwS4rxgrUgqyBtslk",
-		"img":"fuurinVolcano.jfif"
-	},
-	{
-		"title":"魂音泉",
-		"romanized":"TAMAONSEN",
-		"link":"https://open.spotify.com/artist/7KETDASc4oTHgEAo7m1NpQ",
-		"img":"tamaonsen.jfif"
-	},
-	{
 		"title":"黄昏フロンティア",
 		"romanized":"Twilight Frontier",
 		"link":"https://open.spotify.com/artist/1dzPHjckgJihSzVzKOvHxO",
 		"img":"tasogareFrontier.jfif"
 	},
 	{
-		"title":"黒崎れおん",
-		"romanized":"Kurosaki Reon",
-		"link":"https://open.spotify.com/artist/26Sb3IJw3YwgRSBcV2ArZu",
-		"img":"kurosakiReon.jfif"
+		"title":"ついったー東方部",
+		"romanized":"Twitter Tohobu",
+		"link":"https://open.spotify.com/artist/3WJ4Ve1CPnv3FVDP6o6kEv",
+		"img":"twitterTohoBu.jfif"
+	},
+	{
+		"title":"UNDEAD CORPORATION DOUJIN WORKS",
+		"link":"https://open.spotify.com/artist/5NETkMPykaG8ngC1VcubSX",
+		"img":"undeadCorporation.jfif"
+	},
+	{
+		"title":"Unity-Gain",
+		"link":"https://open.spotify.com/artist/248Gj17UxUYYqDek9uOtOd",
+		"img":"unityGain.jfif"
+	},
+	{
+		"title":"Unlucky Morpheus",
+		"link":"https://open.spotify.com/artist/3NyKjyguig68xw6kSpeDiW",
+		"img":"unluckyMorpheus.jfif"
+	},
+	{
+		"title":"うさ",
+		"romanized":"Usa",
+		"link":"https://open.spotify.com/artist/68QLBeVcqJqjkiXPUxwiEx",
+		"img":"usa.jfif"
+	},
+	{
+		"title":"waorlarts",
+		"link":"https://open.spotify.com/artist/6DdciFD54JNdjJWTT2r590",
+		"img":"waorlarts.jfif"
+	},
+	{
+		"title":"Water Color Melody.",
+		"link":"https://open.spotify.com/artist/566bZ3uQEakxAGsuO1x73R",
+		"img":"waterColorMelody.jfif"
+	},
+	{
+		"title":"ヲタみん",
+		"romanized":"Wotamin",
+		"link":"https://open.spotify.com/artist/6JQ8sH2h7DvgI3d95evj5D",
+		"img":"wotamin.jfif"
+	},
+	{
+		"title":"彩音 〜xi-on〜",
+		"romanized":"xi-on",
+		"link":"https://open.spotify.com/artist/677CYbjdYd14bhjISkVTA3",
+		"img":"xion.jfif"
+	},
+	{
+		"title":"XL Project",
+		"link":"https://open.spotify.com/artist/6CrtlzMMOwZxfDdzHWTOxD",
+		"img":"xlProject.jfif"
+	},
+	{
+		"title":"YaboiMatoi",
+		"link":"https://open.spotify.com/artist/5wvEC0Yx7pp3srptbe3e7P",
+		"img":"yaboiMatoi.jfif"
+	},
+	{
+		"title":"矢追春樹",
+		"romanized":"Yaoi Haruki",
+		"link":"https://open.spotify.com/artist/69cLGkfMva1n1gTkmcYu4W",
+		"img":"yaoiHaruki.jfif"
+	},
+	{
+		"title":"宵闇市場",
+		"romanized":"YOIYAMI-ICHIBA",
+		"link":"https://open.spotify.com/artist/7cd9luG0xFZEcthANZwEHJ",
+		"img":"yoiyamiIchiba.jfif"
+	},
+	{
+		"title":"Yonder Voice",
+		"link":"https://open.spotify.com/artist/3nFZFc0DNsp0FPy1E3u78l",
+		"img":"yonderVoice.jfif"
+	},
+	{
+		"title":"ユウノウミ",
+		"romanized":"Younoumi",
+		"link":"https://open.spotify.com/artist/4H3y8J1arm6BDOcwf3UBu5",
+		"img":"younoumi.jfif"
+	},
+	{
+		"title":"Yunum",
+		"link":"https://open.spotify.com/artist/30m0MfmkXX7oOsMvkOWAl9",
+		"img":"yunum.jfif"
+	},
+	{
+		"title":"幽閉サテライト",
+		"romanized":"Yuuhei Satellite",
+		"link":"https://open.spotify.com/artist/2SAR9drBQcqYVx0hdZPVmo",
+		"img":"yuuheiSatellite.jfif"
+	},
+	{
+		"title":"柚木梨沙(少女フラクタル)",
+		"romanized":"Yuzuki Risa (Shoujo Fractal)",
+		"link":"https://open.spotify.com/artist/1cVtOi5rgpcAJ5OAJskQhp",
+		"img":"yuzukiRisa.jfif"
+	},
+	{
+		"title":"ゼッケン屋",
+		"romanized":"Zekken'ya",
+		"link":"https://open.spotify.com/artist/5VTYzhywhpywadzJ9hCtDX",
+		"img":"zekkenya.jfif"
+	},
+	{
+		"title":"ZUN",
+		"link":"https://open.spotify.com/artist/7u6Gx54gVoqectnH929a5C",
+		"img":"zun.jfif"
+	},
+	{
+		"title":"ZYTOKINE",
+		"link":"https://open.spotify.com/artist/35rRbEecpKHkVVYnp7RArh",
+		"img":"zytokine.jfif"
+	},
+	{
+		"title":"ジュクチョー",
+		"romanized":"zyukucho",
+		"link":"https://open.spotify.com/artist/0C7fdsIpfJqSB50AuGRvOM",
+		"img":"zyukucho.jfif"
 	}
 ]
