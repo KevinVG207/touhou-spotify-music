@@ -131,61 +131,52 @@
 
     async function autorun()
     {
-    fb = document.getElementsByClassName("flexbox")[0];
-    const response = await fetch('artists.json');
-    const data = await response.json();
-    // var htmlcode = ``;
-    data.forEach(entry => {
-      cur_artist_container = document.createElement("div");
-      cur_artist_container.setAttribute("class", "artist-container");
+      fb = document.getElementsByClassName("flexbox")[0];
+      const response = await fetch('artists.json');
+      const data = await response.json();
+      data.forEach(entry => {
+        cur_artist_container = document.createElement("div");
+        cur_artist_container.setAttribute("class", "artist-container");
 
-      cur_image_container = document.createElement("div");
-      cur_image_container.setAttribute("class", "image-container");
-      cur_artist_container.appendChild(cur_image_container);
+        cur_image_container = document.createElement("div");
+        cur_image_container.setAttribute("class", "image-container");
+        cur_artist_container.appendChild(cur_image_container);
 
-      cur_artist_image = document.createElement("img");
-      cur_artist_image.setAttribute("src", entry.img);
-      cur_artist_image.setAttribute("srcset", `img/320/${entry.img} 320w, img/640/${entry.img} 640w`);
-      cur_artist_image.setAttribute("sizes", "(max-width: 2000px) 320px, 640px");
-      cur_artist_image.setAttribute("class", "artist-image");
-      cur_artist_image.setAttribute("alt", entry.title);
-      cur_artist_image.setAttribute("loading", "lazy");
-      cur_image_container.appendChild(cur_artist_image);
+        cur_artist_image = document.createElement("img");
+        cur_artist_image.setAttribute("src", entry.img);
+        cur_artist_image.setAttribute("srcset", `img/320/${entry.img} 320w, img/640/${entry.img} 640w`);
+        cur_artist_image.setAttribute("sizes", "(max-width: 2000px) 320px, 640px");
+        cur_artist_image.setAttribute("class", "artist-image");
+        cur_artist_image.setAttribute("alt", entry.title);
+        cur_artist_image.setAttribute("loading", "lazy");
+        cur_image_container.appendChild(cur_artist_image);
 
-      cur_middle = document.createElement("div");
-      cur_middle.setAttribute("class", "middle");
-      cur_image_container.appendChild(cur_middle);
-      
-      cur_link = document.createElement("a");
-      cur_link.setAttribute("href", entry.link);
-      cur_link.setAttribute("target", "_blank");
-      cur_link.setAttribute("class", "button-text");
-      cur_link.addEventListener("focus", focusFunction);
-      cur_link.textContent = "Open Spotify";
-      cur_middle.appendChild(cur_link);
+        cur_middle = document.createElement("div");
+        cur_middle.setAttribute("class", "middle");
+        cur_image_container.appendChild(cur_middle);
+        
+        cur_link = document.createElement("a");
+        cur_link.setAttribute("href", entry.link);
+        cur_link.setAttribute("target", "_blank");
+        cur_link.setAttribute("class", "button-text");
+        cur_link.addEventListener("focus", focusFunction);
+        cur_link.textContent = "Open Spotify";
+        cur_middle.appendChild(cur_link);
 
-      cur_artist_name = document.createElement("p");
-      cur_artist_name.setAttribute("class", "artist-name");
-      cur_artist_name.textContent = entry.title;
-      cur_artist_container.appendChild(cur_artist_name)
+        cur_artist_name = document.createElement("p");
+        cur_artist_name.setAttribute("class", "artist-name");
+        cur_artist_name.textContent = entry.title;
+        cur_artist_container.appendChild(cur_artist_name)
 
-      if (entry.hasOwnProperty("romanized")) {
-        cur_artist_rom_name = document.createElement("p");
-        cur_artist_rom_name.setAttribute("class", "artist-name romanized");
-        cur_artist_rom_name.textContent = entry.romanized;
-        cur_artist_container.appendChild(cur_artist_rom_name)
-      }
+        if (entry.hasOwnProperty("romanized")) {
+          cur_artist_rom_name = document.createElement("p");
+          cur_artist_rom_name.setAttribute("class", "artist-name romanized");
+          cur_artist_rom_name.textContent = entry.romanized;
+          cur_artist_container.appendChild(cur_artist_rom_name)
+        }
 
-      fb.appendChild(cur_artist_container)
-
-      // htmlcode += `<div class="artist-container"><div class="image-container"><img srcset="img/320/${entry.img} 320w, img/640/${entry.img} 640w" sizes="(max-width: 2000px) 320px, 640px" src="${entry.img}" alt="${entry.title}" class="artist-image" loading="lazy"><div class="middle"><a href="${entry.link}" target="_blank" class="button-text" onfocus="focusFunction()">Open Spotify</a></div></div><p class="artist-name">${entry.title}`;
-      // if (entry.hasOwnProperty("romanized")) {
-
-      //   htmlcode += `<p class="artist-name romanized">${entry.romanized}</p>`;
-      // }
-      // htmlcode +=`</p></div>`;
-    });
-    // fb.innerHTML += htmlcode;
+        fb.appendChild(cur_artist_container)
+      });
     }
     if (document.addEventListener) document.addEventListener("DOMContentLoaded", autorun, false);
     else if (document.attachEvent) document.attachEvent("onreadystatechange", autorun);
