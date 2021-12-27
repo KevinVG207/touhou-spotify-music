@@ -94,6 +94,14 @@ noscript {
   opacity: 1;
 }
 
+.image-container:focus-within .artist-image {
+  opacity: 0.3;
+}
+
+.image-container:focus-within .middle {
+  opacity: 1;
+}
+
 .button-text {
   background-color: #1ed760;
   color: #f1f1f1;
