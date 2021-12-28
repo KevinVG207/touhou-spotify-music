@@ -25,7 +25,7 @@
   <div class="ui fixed menu">
     <div class="ui container">
       <div class="item">
-        <img class="logo" src="img/yinYang-green.svg" alt="TH Spotify Music" width="35" height="35">
+        <img class="logo" src="img/yinYang-green.svg" alt="Touhou Spotify Music" width="35" height="35">
       </div>
       <p class="header item">
         TH Spotify Music
@@ -104,6 +104,8 @@
     </div>
   </div>
   <script type="text/javascript">
+    var mouseDown = false;
+
     function searchFilter() {
       var input, filter, box, artist, a, i, txtValue;
       bars = document.getElementsByClassName("searchbar");
@@ -125,8 +127,21 @@
     }
 
     function focusFunction(event) {
-      artist_container = event.currentTarget.parentElement.parentElement.parentElement
-      artist_container.scrollIntoView(false)
+      if (!mouseDown) {
+        artist_container = event.currentTarget.parentElement.parentElement.parentElement;
+        artist_container.scrollIntoView(false);
+      }
+    }
+
+    function mouseDownFunction() {
+      mouseDown = true;
+    }
+
+    function mouseUpFunction(event) {
+      link = event.currentTarget;
+      link.blur();
+
+      mouseDown = false;
     }
 
     async function autorun()
@@ -160,19 +175,21 @@
         cur_link.setAttribute("target", "_blank");
         cur_link.setAttribute("class", "button-text");
         cur_link.addEventListener("focus", focusFunction);
+        cur_link.addEventListener("mousedown", mouseDownFunction);
+        cur_link.addEventListener("mouseup", mouseUpFunction);
         cur_link.textContent = "Open Spotify";
         cur_middle.appendChild(cur_link);
 
         cur_artist_name = document.createElement("p");
         cur_artist_name.setAttribute("class", "artist-name");
         cur_artist_name.textContent = entry.title;
-        cur_artist_container.appendChild(cur_artist_name)
+        cur_artist_container.appendChild(cur_artist_name);
 
         if (entry.hasOwnProperty("romanized")) {
           cur_artist_rom_name = document.createElement("p");
           cur_artist_rom_name.setAttribute("class", "artist-name romanized");
           cur_artist_rom_name.textContent = entry.romanized;
-          cur_artist_container.appendChild(cur_artist_rom_name)
+          cur_artist_container.appendChild(cur_artist_rom_name);
         }
 
         fb.appendChild(cur_artist_container)
