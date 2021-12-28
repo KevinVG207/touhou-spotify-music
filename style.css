@@ -9,6 +9,11 @@ noscript {
   color: #FFFFFF;
 }
 
+p > a:focus {
+  color:#1e70bf;
+  text-decoration:none
+}
+
 .nomargin {
   margin: 0!important;
 }
@@ -30,14 +35,17 @@ noscript {
   width: 0!important;
 }
 
-#dc-desktop {
-  background-color: #6F85D2;
-  color: #F7F7F7;
+#discord {
+  background-color: #5865F2;
+  color: #FFFFFF!important;
 }
 
-#dc-mobile {
-  background-color: #6F85D2;
-  color: #F7F7F7;
+#discord:hover {
+  background-color: #7983F5;
+}
+
+a:focus > #discord {
+  background-color:#7983F5;
 }
 
 .ui.button.mobilebutton {
@@ -165,6 +173,10 @@ noscript {
 
 #mobile-search-icon{
   width: 36px;
+}
+
+a:focus > .ui.twitter.button {
+  background-color:#35a2f4;
 }
 
 /* 5 WIDE */
