@@ -35,17 +35,17 @@ p > a:focus {
   width: 0!important;
 }
 
-#discord {
-  background-color: #5865F2;
+.discordbutton {
+  background-color: #5865F2!important;
   color: #FFFFFF!important;
 }
 
-#discord:hover {
-  background-color: #7983F5;
+.discordbutton:hover {
+  background-color: #7983F5!important;
 }
 
-a:focus > #discord {
-  background-color:#7983F5;
+a:focus > .discordbutton {
+  background-color:#7983F5!important;
 }
 
 .ui.button.mobilebutton {
