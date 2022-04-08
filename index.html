@@ -166,7 +166,7 @@
 
         entry.img += ".webP"
         cur_artist_image = document.createElement("img");
-        cur_artist_image.setAttribute("src", entry.img);
+        cur_artist_image.setAttribute("src", `img/280/${entry.img}`);
         cur_artist_image.setAttribute("srcset", `img/280/${entry.img} 280w, img/538/${entry.img} 538w`);
         cur_artist_image.setAttribute("sizes", "(max-width: 2000px) 280px, 538px");
         cur_artist_image.setAttribute("class", "artist-image");
