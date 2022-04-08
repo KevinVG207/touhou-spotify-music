@@ -164,10 +164,11 @@
         cur_image_container.setAttribute("class", "image-container");
         cur_artist_container.appendChild(cur_image_container);
 
+        entry.img += ".webP"
         cur_artist_image = document.createElement("img");
         cur_artist_image.setAttribute("src", entry.img);
-        cur_artist_image.setAttribute("srcset", `img/320/${entry.img} 320w, img/640/${entry.img} 640w`);
-        cur_artist_image.setAttribute("sizes", "(max-width: 2000px) 320px, 640px");
+        cur_artist_image.setAttribute("srcset", `img/280/${entry.img} 280w, img/538/${entry.img} 538w`);
+        cur_artist_image.setAttribute("sizes", "(max-width: 2000px) 280px, 538px");
         cur_artist_image.setAttribute("class", "artist-image");
         cur_artist_image.setAttribute("alt", entry.title);
         cur_artist_image.setAttribute("loading", "lazy");
