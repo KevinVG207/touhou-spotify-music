@@ -24,10 +24,10 @@
   <body>
   <div class="ui fixed menu">
     <div class="ui container">
-      <div class="item">
+      <div class="item pointer" onclick="resetSearch()">
         <img class="logo" src="img/yinYang-green.svg" alt="Touhou Spotify Music" width="35" height="35">
       </div>
-      <p class="header item">
+      <p class="header item pointer"onclick="resetSearch()">
         TH Spotify Music
       </p>
       <div class="right item">
@@ -105,6 +105,14 @@
   </div>
   <script type="text/javascript">
     var mouseDown = false;
+
+    function resetSearch() {
+      for (const element of document.querySelectorAll('.searchbar')){
+        element.value = '';
+      }
+      searchFilter();
+      document.querySelector('.artist-container').scrollIntoView(false);
+    }
 
     function searchFilter() {
       var input, filter, box, artist, a, i, txtValue;

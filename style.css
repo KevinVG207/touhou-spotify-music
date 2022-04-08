@@ -35,6 +35,10 @@ p > a:focus {
   width: 0!important;
 }
 
+.pointer {
+  cursor: pointer;
+}
+
 .discordbutton {
   background-color: #5865F2!important;
   color: #FFFFFF!important;
