@@ -1,4 +1,6 @@
 # TH Spotify
+[Home Page](https://www.thspotify.moe/)
+
 Find the Touhou doujin music artists you are looking for easily on Spotify with Touhou Spotify Music!
 Run by: [@Kawaii_Shadowii](https://twitter.com/Kawaii_Shadowii) & [@KevinVG207](https://twitter.com/KevinVG207)
 
