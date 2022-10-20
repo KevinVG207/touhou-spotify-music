@@ -108,6 +108,11 @@
 	   "img":"aruneru"
 	},
 	{
+	   "title":"As/Hi Piano",
+	   "link":"https://open.spotify.com/artist/5E7ZIUweWYsVvd2jWXcghg",
+	   "img":"asHiPiano"
+	},
+	{
 	   "title":"As/Hi ROCK",
 	   "link":"https://open.spotify.com/artist/3TZEuO0ZSXdwpB4scQfhKU",
 	   "img":"asHiRock"
@@ -279,6 +284,11 @@
 	   "title":"FloatingCloud",
 	   "link":"https://open.spotify.com/artist/6VCND6vOboajEBsoWSxdg7",
 	   "img":"floatingCloud"
+	},
+	{
+	   "title":"Foreground Eclipse",
+	   "link":"https://open.spotify.com/artist/6DB2OmJUXs0Dx16hRq8TFT",
+	   "img":"foregroundEclipse"
 	},
 	{
 	   "title":"Foxtail-Grass Studio",
